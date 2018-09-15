@@ -7,7 +7,7 @@
 	<packaging>jar</packaging>
 
 	<name>calculator</name>
-	<url>http://maven.apache.org</url>
+	<url>https://github.com/joeysindayen/CalculatorExample.git</url>
 
 	<properties>
 		<!-- Generic properties -->
@@ -52,7 +52,6 @@
 					<source>1.8</source>
 					<target>1.8</target>
 				</configuration>
-
 			</plugin>
 		</plugins>
 	</build>
